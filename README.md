@@ -1,5 +1,6 @@
 Just forking to save it in my repo.
 
+[Idea for project 1](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/)
 
 ![Modern Data Engineer Roadmap 2021](img/title.png)
 
